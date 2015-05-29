@@ -1,0 +1,10 @@
+.card-short-id.hide {
+  color: #ccc !important;
+  display: inline !important;
+  float: right !important;
+  font-size: 140% !important;
+  font-weight: normal !important;
+  line-height: 1 !important;
+  margin-bottom: 2px !important;
+  margin-left: 2px !important;
+}
