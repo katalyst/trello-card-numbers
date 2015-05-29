@@ -47,6 +47,8 @@
 			<string>Some</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>http://katalyst.github.io/trello-card-numbers/Update.plist</string>
 	<key>Website</key>
 	<string>http://katalyst.com.au/</string>
 </dict>
